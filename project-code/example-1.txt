@@ -1,0 +1,6 @@
+b = [1,2,3,4,5].
+x = 2.
+$for $each a $in b:
+$begin
+ a $plus x.
+$end

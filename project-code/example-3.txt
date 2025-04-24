@@ -1,0 +1,9 @@
+a = [10,20,30,20].
+b = 5.
+$for $each c $in a: 
+$begin 
+$is c $greater b: 
+$begin 
+$display (c).
+$end 
+$end

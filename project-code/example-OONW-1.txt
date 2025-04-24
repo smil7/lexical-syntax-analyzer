@@ -1,0 +1,4 @@
+$is c $greater b: 
+$begin 
+$display (c).
+$end 
